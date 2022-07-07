@@ -4,6 +4,9 @@
   "description": "",
   "keywords": [],
   "main": "src/index.js",
+  "engines": {
+  "node": "16.x"
+  },
   "dependencies": {
     "@apollo/react-hooks": "^4.0.0",
     "@emotion/css": "^11.0.0",
